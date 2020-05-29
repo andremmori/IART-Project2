@@ -7,3 +7,4 @@ matplotlib
 seaborn
 sqlite3
 numpy
+sklearn
